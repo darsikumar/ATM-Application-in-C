@@ -60,55 +60,8 @@ void main()
      
 }
 
-/*
-#include<stdio.h>
-void main()
-{
- int i,j;
- int num;
- int pattern;
- int stars;
- int nums;
- printf("welcome to print triangle pattern");
- printf("enter your pattern to print traingle stars or nums");
- scanf("%d",&pattern);
- print("enter any number to print triangles");
- scanf("%d",&num);
- printf("your entered number is:%d",num);
-   if(pattern=stars)
-  {
-  	printf("working");
-  
-  }	
-} */
-  
-  
-  
-  
-/*
-#include<stdio.h>
-int main() {
-    int n, i, j, k;
 
-    printf("Enter number of rows: ");
-    scanf("%d", &n);
 
-    for (i = 1; i <= n; i++) {
-        // Print leading spaces
-        for (j = i; j < n; j++) {
-            printf(" ");
-        }
-
-        // Print ascending numbers
-        for (k = 1; k <= i; k++) {
-            printf("%d", k);
-        }
-
-        printf("\n");
-    }
-
-    return 0;
-} */
 
 
 
