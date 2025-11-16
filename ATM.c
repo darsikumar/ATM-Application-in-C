@@ -9,7 +9,7 @@ void main()
    // int present_amount;
    // present_amount==10000;
 	int pin;
-	pin=143;
+	pin=1431;
     printf("enter your 4 digit pin \n");
     scanf("%d",&pin);
     if(pin!=1431)
@@ -59,6 +59,7 @@ void main()
    }
      
 }
+
 
 
 
