@@ -19,7 +19,7 @@ This project is ideal for beginners who want to practice core C programming fund
 
 ## 🛠 Technologies Used
 - **C Programming Language**
-- **GCC Compiler** (or any standard C compiler)
+- **DEV C++**
 
 ---
 
